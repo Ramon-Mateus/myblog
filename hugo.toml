@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-blog-awesome"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/Ramon-Mateus"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/ramon-oliveira-673871230/"
