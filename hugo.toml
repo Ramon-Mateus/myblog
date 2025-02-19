@@ -1,4 +1,4 @@
-title = "Awesome Hugo blog"
+title = "Ramon Mateus - Blog"
 baseURL = 'https://hba.sid.one/'
 
 # This is what goes in <html lang="">
@@ -99,9 +99,9 @@ theme = "hugo-blog-awesome"
 [Languages.en-us.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  intro = "Ramon Mateus"
+  name = "Ramon Mateus"
+  description = "Hello, I'm a computer engineer in training and I use this blog as an extension of my memory."
 
 # Allow to override webmanifest options
 [Languages.en-us.params.webmanifest]
@@ -164,9 +164,9 @@ theme = "hugo-blog-awesome"
 [Languages.pt-br.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "Um tema Hugo veloz e minimalista com suporte a modo claro e escuro para rodar um blog ou site pessoal"
+  intro = "Ramon Mateus"
+  name = "Ramon Mateus"
+  description = "Olá, sou um engenheiro da computação em formação e uso esse blog como extensão da minha memória."
 
 # Allow to override webmanifest options
 [Languages.pt-br.params.webmanifest]
